@@ -1,5 +1,5 @@
 fn calculer_perimetre(longueur : i32,largeur : i32) -> i32{
-    (longueur + largeur) * 2
+    (longueur + largeur) - 2
 }
 
 fn main() {
