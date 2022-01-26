@@ -3,6 +3,7 @@ fn calculer_perimetre(longueur : i32,largeur : i32) -> i32{
 }
 
 fn main() {
+    println!("Ajout");
     println!("P={}",calculer_perimetre(23,43));
 }
 
